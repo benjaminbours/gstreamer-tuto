@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "basic-tuto-1",
+    "basic-tuto-2",
+    "basic-tuto-3",
+]
